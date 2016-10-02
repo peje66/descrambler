@@ -11,3 +11,6 @@
 
 
 **Due to 'Hollywood' legislation, the use of this software is illegal in most countrys. (but not in my country, hehe)**
+
+
+**This 'cccam' branch only exists as a service to cccam users. Cccam has some known issues that seem to cause a somwhat higher cpu use when using mrfloppy82's correct patches to the network.c code. Descriptions are in issue #7 of this repo and in pull request #28 in my ffdecsawrapper repo.**
